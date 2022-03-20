@@ -5,11 +5,10 @@
 <br><br>
 
 - ☀️ Full-time IT student, hobbyist esoteric developer and technomancer from Northen Portugal. 
-- :trophy: Better known for bootstraping an obscure doctrine and overseeing a group of cyber occultists that may or may not exist.
-- Rumorouded to chronologically reside somewhere in their early 20's albeit subject's phenotype is discordant.
-- :computer: Knowledgeable in javascript, react.js, next.js and python.
-- :student: I’m currently learning `Computer Science` and `Software Engineering` at ESTG, Politécnico de Leiria.
-- :thinking:
+- 👁️ Better known for bootstraping an obscure doctrine and overseeing a group of cyber occultists that may or may not exist.
+- 🦋 Rumoured to chronologically reside somewhere in their early 20's albeit subject's phenotype is discordant.
+- 🌙 Knowledgeable in javascript, react.js, next.js and python.
+- 🖤 I’m currently learning `Computer Science` and `Software Engineering` at ESTG, Politécnico de Leiria.
 
 
 ## Contact me : 
