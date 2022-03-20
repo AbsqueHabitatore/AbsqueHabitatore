@@ -4,7 +4,7 @@
 
 <br><br>
 
-- :school: Full-time IT student, hobbyist esoteric developer and part-time technomancer from northen Portugal. 
+- ☀️ Full-time IT student, hobbyist esoteric developer and part-time technomancer from Northen Portugal. 
 - :trophy: Better known for bootstraping an obscure doctrine and overseeing a group of cyber occultists that may or may not exist.
 - Rumorouded to chronologically reside somewhere in their early 20's albeit subject's phenotype is discordant.
 - :computer: Knowledgeable in javascript, react.js, next.js and python.
