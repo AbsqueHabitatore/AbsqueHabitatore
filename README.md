@@ -5,12 +5,12 @@
 <br><br>
 
 - :school: Full-time IT student and part-time technomancer. 
-ʀᴇᴘᴏʀᴛᴇᴅ ᴛᴏ ʙᴇ ᴄʜʀᴏɴᴏʟᴏɢɪᴄᴀʟʟʏ sᴏᴍᴇᴡʜᴇʀᴇ ɪɴ ᴛʜᴇɪʀ ᴇᴀʀʟʏ 𝟸𝟶's, albeit subject's phenotype is discordant. ᴛʜᴇ ᴘʀᴇsᴇɴᴄᴇ ᴏғ ɪɴᴅᴇғɪɴɪᴛᴇ ʟɪғᴇ ᴇxᴛᴇɴsɪᴏɴ ᴅᴜᴇ ᴛᴏ ɪɴʜᴜᴍᴀɴ ᴘʀᴏᴘᴇʀᴛɪᴇs ʜᴀs ʙᴇᴇɴ sᴜɢɢᴇsᴛᴇᴅ. ᴀᴍʙɪᴠᴀʟᴇɴᴛ ɴᴀᴛᴜʀᴇ. ᴄʟᴀssɪғɪᴇᴅ ᴀs Ⱥҍʂզմҽ Ƕąҍìէąէօɾҽ. 
+, albeit subject's phenotype is discordant. ᴛʜᴇ ᴘʀᴇsᴇɴᴄᴇ ᴏғ ɪɴᴅᴇғɪɴɪᴛᴇ ʟɪғᴇ ᴇxᴛᴇɴsɪᴏɴ ᴅᴜᴇ ᴛᴏ ɪɴʜᴜᴍᴀɴ ᴘʀᴏᴘᴇʀᴛɪᴇs ʜᴀs ʙᴇᴇɴ sᴜɢɢᴇsᴛᴇᴅ. ᴀᴍʙɪᴠᴀʟᴇɴᴛ ɴᴀᴛᴜʀᴇ. ᴄʟᴀssɪғɪᴇᴅ ᴀs Ⱥҍʂզմҽ Ƕąҍìէąէօɾҽ. 
 ᴠɪɢɪʟᴀɴᴄᴇ ɪs ᴀᴅᴠɪsᴇᴅ. ɪɢɴᴏʀɪɴɢ ᴛʜᴇ ɢᴜᴀʀᴅɪᴀɴ'ᴤ ᴤɪɢɴᴤ ᴡɪʟʟ ɴᴜʟʟɪғʏ ᴀɴʏ ᴀɴᴅ ᴀʟʟ ʟɪᴀʙɪʟɪᴛʏ.⠀⠀⠀
 - :trophy: Better known for bootstraping an obscure doctrine and overseeing a group of cyber occultists that may or may not exist.
-- :technologist: I love using Software as a solution for every `Problem`.
+- :technologist: Rumorouded to chronologically reside somewhere in their early 20's albeit subject's phenotype is discordant.
 - :computer: I am a competitive programmer mainly at `Codeforces`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering` at ESTG, Politécnico de Leiria.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
 - :nerd_face: Always `learning new things`.
 
